@@ -1,1 +1,1 @@
-Byusdt
+Byusdt是一个USDT汇款人民币的平台
